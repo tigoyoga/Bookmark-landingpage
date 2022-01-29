@@ -1,0 +1,10 @@
+.open .faq-open {
+  display: block;
+}
+
+.open .fa-angle-down {
+  display: none;
+}
+.open .fa-angle-up {
+  display: block;
+}
